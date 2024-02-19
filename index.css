@@ -1,0 +1,30 @@
+body{
+    background: #ffffff;
+color:rgb(4,66,115);
+}
+.Acountingbar{
+    width: 80%;
+}
+.englishbar{
+    width: 65%;
+}
+.topbutton{
+    position: fixed;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    bottom: 3%;
+    right: 2%;
+    z-index: 99;
+    background: rgb(4,66,115);
+}
+
+
+
+
+
+
+
+
+
+
